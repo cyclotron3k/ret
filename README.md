@@ -5,7 +5,7 @@ CLI Storable store editor
 
 Do you use Perl's Storable a lot? I do. And sometimes I need a way to quickly view or edit the store files.
 
-This s a little tool I threw together to enable that.
+This is a little tool I threw together to enable that.
 
 To view the contents of a store file:
 
